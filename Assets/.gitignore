@@ -1,2 +1,2 @@
-/Standard Assets/*
-!/Standard Assets/*.meta
+*
+!*.meta
