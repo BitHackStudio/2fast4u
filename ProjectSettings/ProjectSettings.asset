@@ -460,7 +460,7 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    Collab: 1
+    Collab: 0
     UNet: 1
   cloudProjectId: b9a38744-b229-4225-bb1d-ab11c543a05a
   projectName: 2fast4u (1)
